@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Playfair+Display&family=Poppins:wght@300&display=swap');
+
+@font-face {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
+}
+
+.imgstyle:hover{
+    opacity: 80%;
+}
+
+.main-footer{
+    font-family: 'Playfair Display';
+}
+
+.img-size{
+    object-fit: fill;
+    height: auto;
+    width: 30%;
+}
+
+.menu-btn{
+    font-size: 18px;
+    text-decoration: none;
+    color: #00292B;
+}
+
+.menu-btn:hover{
+    color: #003e41;
+}
+
+.bg-footer{
+    background-color: #70908B;
+}

@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Playfair+Display&family=Poppins:wght@300&display=swap');
+@font-face {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
+}
+
+
+$main-color: #70908B;
+$secondary-color: #efefef;
+$body-color: #FDFBF8;
+
+.roundstyle{
+    border-radius:18px;
+}
+
+.txtbtn{
+    color: #5b7571;
+}
+
+.txtbtn2{
+    color: #5b7571;
+} 
+
+.txtbtn:hover{
+    opacity: 70%;
+    transition: 0.25s;
+}
+
+.addrstyle{
+    background-color: #AAB4B2;
+}
+
+.badgestyle{
+    background-color: rgb(226, 226, 226);
+}
+
+.main-profile{
+    font-family: 'Inter';
+}
+
+.active{
+    background-color: $secondary-color;
+}
+
+.cont{
+    background-color: rgb(238, 238, 238);
+    border-radius:10px;
+}
+
+.stiki{
+    align-items: start;
+}
+
+.csize{
+    width: 300vh;
+}
+
+.menuStyling:hover{
+    background: $secondary-color;
+    transition: 0.25s;
+}
+
+.containerprofile{
+    height: 37vh;
+}
+
+.test{
+    height: 300vh;
+}
+
+.btnhover:hover{
+    opacity: 60%;
+    transition: 0.25s;
+}
+
+.orderstyle{
+    background-color: $main-color;
+}
